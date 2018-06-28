@@ -4,7 +4,7 @@ public class Hello{
 		
 		System.out.println("Hello World");
 		
-		System.out.println("Hello World Jenkins ... from Master Branch");
+		System.out.println("Hello World Jenkins ... from Bug Branch");
 	
 	}
 
